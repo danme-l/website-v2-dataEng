@@ -1,5 +1,5 @@
 # Data Engineering for dmeleras.ca
-This is the repository containing scripts for all the data fetching and cleaning for posts on dmeleras.ca
+This is the repository containing scripts for all the data fetching and cleaning for posts on danmeleras.ca
 
 ## Method
 When I find data that I'm interested in, I use a jupyter notebook to fetch and clean that data, and load it into a csv file to keep for my personal records and as a backup. Data gets loaded from the csv files to the database in a python script.
