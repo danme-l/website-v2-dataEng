@@ -1,0 +1,10 @@
+.env
+
+# ignore text, CSV, and Excel files in all subdirectories
+**/*.txt
+**/*.csv
+**/*.xls
+
+# may come back here but ignore for now
+/chess
+/gdp
