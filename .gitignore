@@ -4,6 +4,7 @@
 **/*.txt
 **/*.csv
 **/*.xls
+**/*.xlsx
 
 # may come back here but ignore for now
 /chess
